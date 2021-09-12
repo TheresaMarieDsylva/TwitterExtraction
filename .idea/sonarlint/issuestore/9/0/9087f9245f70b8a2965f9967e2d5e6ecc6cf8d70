@@ -1,0 +1,6 @@
+
+jpython:S117"SRename this parameter "dictObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ÖØ¯
+hpython:S1542C"KRename function "deUrl" to match the regular expression ^[a-z_][a-z0-9_]*$.(­ïÛàúÿÿÿÿ
+lpython:S1542G"ORename function "deSpecial" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌÒÂ¶ýÿÿÿÿ
+ppython:S1542K"SRename function "deSpecialChar" to match the regular expression ^[a-z_][a-z0-9_]*$.(ú‡ñ­ûÿÿÿÿ
+jpython:S1542O"MRename function "deEmoji" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦£›Þûÿÿÿÿ
